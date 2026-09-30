@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/precommit-husky-lint-staged",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/precommit-husky-lint-staged": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/precommit-husky-lint-staged",
+    "origin"
+  ]
+}
